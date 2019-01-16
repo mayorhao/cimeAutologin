@@ -17,6 +17,7 @@ curl -d "ac_id=1&action=login&ajax=1&nas_ip=&password=[password]&save_me=1&user_
 - password 密码
 - username 学生卡号
 - ip 自己电脑的ip
+
 注意方括号也要删掉
 
 #### 3.为windows设置定时任务
