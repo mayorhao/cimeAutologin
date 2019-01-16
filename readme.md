@@ -13,7 +13,7 @@
 curl -d "ac_id=1&action=login&ajax=1&nas_ip=&password=[password]&save_me=1&user_ip=[ip]&user_mac=&username=[username]" "http://10.108.255.249/include/auth_action.php"
 
 ```  
-复制上述内容，将方括号内的内容替换为自己的。
+复制粘贴上述内容，将方括号内的内容替换为自己的。
 - password 密码
 - username 学生卡号
 - ip 自己电脑的ip
