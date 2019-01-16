@@ -6,7 +6,7 @@
 ```python
     curl
 ```
-如果不支持该命令，建议下个git，它可以为你配置一些unix环境
+如果不支持该命令，建议下个git，(点[这里](https://git-scm.com/downloads)下载)它可以为你配置一些unix环境
 
 #### 2.新建autoLogin.bat文件
 ```shell  
